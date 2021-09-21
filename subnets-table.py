@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# Usage:   ./subnets.py ip prefix
-# Example: ./subnets.py 192.168.10.15 20
+# Usage:   ./subnets-table.py ip prefix ips_requeridas
+# Example: ./subnets-table.py 192.168.10.15 20 800
 
 import sys
 
