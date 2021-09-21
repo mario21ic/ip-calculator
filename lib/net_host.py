@@ -19,3 +19,7 @@ def get_net_host(my_ip, clase):
         print("Reserved for future use")
 
     return ".".join(net_id), ".".join(host_id)
+
+def get_ip_qty(porcion_host):
+    return 2**porcion_host
+
