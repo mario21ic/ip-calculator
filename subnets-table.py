@@ -48,7 +48,8 @@ Notes:
 Inspirado en https://mxtoolbox.com/subnetcalculator.aspx
 
 TODO:
-- Agregar tabla comenzando por el que requiere mas IPs (clase 7_1 1:02)
+- Agregar tabla comenzando por el que requiere mas IPs (clase 7_1 1:02) 
+- Ips asignadas 1024 / 255 = 4 => 10.10.192.0 next 10.10.196.0
 - Refactor and unit tests
 - Direccion ip, mask y subred en binario
 """
